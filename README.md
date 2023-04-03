@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there 🥳
+  I'm Yi Jia.
+  
+  👨‍🎓 I’m currently learning information retrieval.
+  
 <!--
 **Y1Jia/Y1Jia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
